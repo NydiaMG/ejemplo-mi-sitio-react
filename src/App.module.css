@@ -1,0 +1,16 @@
+
+
+    .container {
+        padding: 20px;
+        max-width: 1200px;
+        margin: 0 auto;
+        }
+        .title {
+        text-align: center;
+        font-size: 2.5rem;
+        color: #2e7d32;
+        margin-top: 30px;
+        margin-bottom: 10px;
+        font-weight: 700;
+        font-family: ‘Segoe UI’, Tahoma, Geneva, Verdana, sans-serif;
+        }
